@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/hit_ship.wav-d993ac95a00a3e7af60f266f0e8bc3f5.sample"
+
+[deps]
+
+source_file="res://Scenes/Blaster Faster - Assets Only/sounds/hit_ship.wav"
+dest_files=[ "res://.import/hit_ship.wav-d993ac95a00a3e7af60f266f0e8bc3f5.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
